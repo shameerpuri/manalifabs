@@ -1,0 +1,115 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Manali Fabs",
+    "description": "",
+    "home_page_url": "http://shameer.ddns.net",
+    "feed_url": "http://shameer.ddns.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shameer"
+    },
+    "items": [
+        {
+            "id": "http://shameer.ddns.net/bed-sheets.html",
+            "url": "http://shameer.ddns.net/bed-sheets.html",
+            "title": "Bed Sheets",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-20T19:34:11+05:30",
+            "date_modified": "2023-09-20T19:34:11+05:30"
+        },
+        {
+            "id": "http://shameer.ddns.net/about-us.html",
+            "url": "http://shameer.ddns.net/about-us.html",
+            "title": "About Us",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-20T19:30:20+05:30",
+            "date_modified": "2023-09-20T19:30:20+05:30"
+        },
+        {
+            "id": "http://shameer.ddns.net/contact-us.html",
+            "url": "http://shameer.ddns.net/contact-us.html",
+            "title": "Contact Us",
+            "summary": "Talk to Reception Just pick up the phone to chat with a member of our sales team 00000000000 DROP US YOUR&hellip;",
+            "content_html": "<h1 class=\"align-center\"><strong>Talk to Reception</strong></h1>\n<p class=\"align-center\">Just pick up the phone to chat with a member of our sales team</p>\n<p class=\"align-center\"><strong>00000000000</strong></p>\n<table class=\" align-center\" border=\"0\">\n<tbody>\n<tr>\n<td>\n<h4><strong>DROP US YOUR DETAILS AND WE WILL CONTACT</strong></h4>\n<!---<form action=\"https://formspree.io/hotel.shagun@outlook.com\" method=\"POST\" name=\"Contact Us\">--><form class=\"gform\" action=\"https://script.google.com/macros/s/AKfycby9rROTa7IvoO-l4E-PICRd7KtJH47suv26b2zIoVYahOf6PTVe/exec\" method=\"POST\" data-email=\"shagun.hotel.jassur@gmail.com\"><!---<form class=\"gform\" action=\"https://script.google.com/macros/s/AKfycby9rROTa7IvoO-l4E-PICRd7KtJH47suv26b2zIoVYahOf6PTVe/exec\" method=\"POST\" name=\"Contact Us\" data-email=\"shagun.hotel@outlook.com\">-->\n<table class=\"align-left\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 276px;\"><label>Name: </label></td>\n<td style=\"width: 343px;\"><input name=\"Name\" type=\"text\" placeholder=\"Name\"> </td>\n</tr>\n<tr>\n<td style=\"width: 276px;\"><label>Address:</label></td>\n<td style=\"width: 343px;\"><textarea cols=\"25\" name=\"Address\" rows=\"5\" placeholder=\"Address\"> </textarea></td>\n</tr>\n<tr>\n<td style=\"width: 276px;\"><label>Mobile Number:</label></td>\n<td style=\"width: 343px;\"><input name=\"Mobile\" type=\"tel\" placeholder=\"Mobile Number\"> </td>\n</tr>\n<tr>\n<td style=\"width: 276px;\"><label>Email Id:</label></td>\n<td style=\"width: 343px;\"><input name=\"Email\" type=\"email\" placeholder=\"Email Id\">  </td>\n</tr>\n<tr>\n<td style=\"width: 276px;\"><label>Remarks/Information:</label></td>\n<td style=\"width: 343px;\"><textarea cols=\"25\" name=\"Remarks\" rows=\"5\" placeholder=\"Remarks\"> </textarea></td>\n</tr>\n</tbody>\n</table>\n<input type=\"submit\" value=\"Send\" align=\"Centre\">\n<div class=\"thankyou_message\" style=\"display: none;\"><!-- You can customize the thankyou message by editing the code below -->\n<h2><em>Thanks</em> for contacting us! We will get back to you soon!</h2>\n</div>\n</form></td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-20T19:30:15+05:30",
+            "date_modified": "2023-09-20T20:01:10+05:30"
+        },
+        {
+            "id": "http://shameer.ddns.net/sale.html",
+            "url": "http://shameer.ddns.net/sale.html",
+            "title": "Sale",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-20T19:30:10+05:30",
+            "date_modified": "2023-09-20T19:30:10+05:30"
+        },
+        {
+            "id": "http://shameer.ddns.net/latest-collection.html",
+            "url": "http://shameer.ddns.net/latest-collection.html",
+            "title": "Latest Collection",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG_20230710_115237_038.jpg\" data-size=\"746x746\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG_20230710_115237_038-thumbnail.webp\" alt=\"\" width=\"746\" height=\"746\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20221026-WA0012.jpg\" data-size=\"1416x1599\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20221026-WA0012-thumbnail.webp\" alt=\"\" width=\"768\" height=\"867\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230817-WA0066.jpg\" data-size=\"1080x1425\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230817-WA0066-thumbnail.webp\" alt=\"\" width=\"768\" height=\"1013\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230820-WA0014.jpg\" data-size=\"1080x973\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230820-WA0014-thumbnail.webp\" alt=\"\" width=\"768\" height=\"692\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230827-WA0006.jpg\" data-size=\"1022x1280\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230827-WA0006-thumbnail.webp\" alt=\"\" width=\"768\" height=\"962\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230909-WA0010.jpg\" data-size=\"720x1600\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230909-WA0010-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230911-WA0065.jpg\" data-size=\"858x1280\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230911-WA0065-thumbnail.webp\" alt=\"\" width=\"768\" height=\"1146\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230911-WA0070.jpg\" data-size=\"720x1600\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230911-WA0070-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230830-WA0039.jpg\" data-size=\"720x1600\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230830-WA0039-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230906-WA0021.jpg\" data-size=\"829x1600\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230906-WA0021-thumbnail.webp\" alt=\"\" width=\"768\" height=\"1482\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230912-WA0053.jpg\" data-size=\"507x567\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/7/gallery/IMG-20230912-WA0053-thumbnail.webp\" alt=\"\" width=\"507\" height=\"567\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-20T19:30:00+05:30",
+            "date_modified": "2023-09-20T19:42:00+05:30"
+        },
+        {
+            "id": "http://shameer.ddns.net/cushions.html",
+            "url": "http://shameer.ddns.net/cushions.html",
+            "title": "Cushions",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/6/gallery/IMG-20230820-WA0014.jpg\" data-size=\"1080x973\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/6/gallery/IMG-20230820-WA0014-thumbnail.webp\" alt=\"\" width=\"768\" height=\"692\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-20T19:25:40+05:30",
+            "date_modified": "2023-09-20T19:27:12+05:30"
+        },
+        {
+            "id": "http://shameer.ddns.net/tables.html",
+            "url": "http://shameer.ddns.net/tables.html",
+            "title": "Tables",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG_20230710_115237_038.jpg\" data-size=\"746x746\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG_20230710_115237_038-thumbnail.webp\" alt=\"\" width=\"746\" height=\"746\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20221026-WA0012.jpg\" data-size=\"1416x1599\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20221026-WA0012-thumbnail.webp\" alt=\"\" width=\"768\" height=\"867\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230817-WA0066.jpg\" data-size=\"1080x1425\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230817-WA0066-thumbnail.webp\" alt=\"\" width=\"768\" height=\"1013\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230820-WA0014.jpg\" data-size=\"1080x973\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230820-WA0014-thumbnail.webp\" alt=\"\" width=\"768\" height=\"692\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230827-WA0006.jpg\" data-size=\"1022x1280\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230827-WA0006-thumbnail.webp\" alt=\"\" width=\"768\" height=\"962\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230909-WA0010.jpg\" data-size=\"720x1600\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230909-WA0010-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230911-WA0065.jpg\" data-size=\"858x1280\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230911-WA0065-thumbnail.webp\" alt=\"\" width=\"768\" height=\"1146\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230911-WA0070.jpg\" data-size=\"720x1600\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230911-WA0070-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230830-WA0039.jpg\" data-size=\"720x1600\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230830-WA0039-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230906-WA0021.jpg\" data-size=\"829x1600\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230906-WA0021-thumbnail.webp\" alt=\"\" width=\"768\" height=\"1482\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230912-WA0053.jpg\" data-size=\"507x567\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/5/gallery/IMG-20230912-WA0053-thumbnail.webp\" alt=\"\" width=\"507\" height=\"567\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-20T19:23:56+05:30",
+            "date_modified": "2023-09-20T19:23:56+05:30"
+        },
+        {
+            "id": "http://shameer.ddns.net/runners.html",
+            "url": "http://shameer.ddns.net/runners.html",
+            "title": "Runners",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"http://shameer.ddns.net/media/posts/4/gallery/IMG-20230817-WA0066.jpg\" data-size=\"1080x1425\"><img loading=\"lazy\" src=\"http://shameer.ddns.net/media/posts/4/gallery/IMG-20230817-WA0066-thumbnail.webp\" alt=\"\" width=\"768\" height=\"1013\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-20T19:11:59+05:30",
+            "date_modified": "2023-09-20T19:27:27+05:30"
+        }
+    ]
+}
